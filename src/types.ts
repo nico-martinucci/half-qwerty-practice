@@ -1,0 +1,1 @@
+export type rows = "top" | "middle" | "bottom";
